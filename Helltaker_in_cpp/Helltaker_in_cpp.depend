@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1687091375 source:d:\ccccccccccccccccccccc\helltaker_in_cpp\main.cpp
+	<iostream>
+	"Settings.h"
+	"Taker.h"
+	"Object.h"
+	"Field.h"
+	"Board.h"
+	"BoardTree.h"
+	"Gameplay.h"
+
+1687091141 d:\ccccccccccccccccccccc\helltaker_in_cpp\settings.h
+
+1687091141 d:\ccccccccccccccccccccc\helltaker_in_cpp\taker.h
+
+1687091242 d:\ccccccccccccccccccccc\helltaker_in_cpp\object.h
+
+1687091242 d:\ccccccccccccccccccccc\helltaker_in_cpp\field.h
+
+1687091242 d:\ccccccccccccccccccccc\helltaker_in_cpp\board.h
+	<vector>
+	<cstdlib>
+	<time.h>
+	<memory>
+	<algorithm>
+	<utility>
+
+1686827997 d:\ccccccccccccccccccccc\helltaker_in_cpp\settings.cpp
+
+1686827997 d:\ccccccccccccccccccccc\helltaker_in_cpp\taker.cpp
+
+1686827994 d:\ccccccccccccccccccccc\helltaker_in_cpp\object.cpp
+
+1686827998 d:\ccccccccccccccccccccc\helltaker_in_cpp\field.cpp
+
+1686827997 d:\ccccccccccccccccccccc\helltaker_in_cpp\board.cpp
+	<vector>
+	<cstdlib>
+	<time.h>
+	<memory>
+	<algorithm>
+	<utility>
+
+1686827896 d:\ccccccccccccccccccccc\helltaker_in_cpp\boardtree.cpp
+
+1686830678 d:\ccccccccccccccccccccc\helltaker_in_cpp\gameplay.cpp
+
+1687091320 d:\ccccccccccccccccccccc\helltaker_in_cpp\boardtree.h
+
+1687091496 d:\ccccccccccccccccccccc\helltaker_in_cpp\gameplay.h
+
+1687091375 source:c:\users\lenovo\desktop\doxyy\helltaker_in_cpp\main.cpp
+	<iostream>
+	"Settings.h"
+	"Taker.h"
+	"Object.h"
+	"Field.h"
+	"Board.h"
+	"BoardTree.h"
+	"Gameplay.h"
+
+1687118541 c:\users\lenovo\desktop\doxyy\helltaker_in_cpp\settings.h
+
+1687118539 c:\users\lenovo\desktop\doxyy\helltaker_in_cpp\taker.h
+
+1687116982 c:\users\lenovo\desktop\doxyy\helltaker_in_cpp\object.h
+
+1687116968 c:\users\lenovo\desktop\doxyy\helltaker_in_cpp\field.h
+
+1687118545 c:\users\lenovo\desktop\doxyy\helltaker_in_cpp\board.h
+	<vector>
+	<cstdlib>
+	<time.h>
+	<memory>
+	<algorithm>
+	<utility>
+
+1687118127 c:\users\lenovo\desktop\doxyy\helltaker_in_cpp\boardtree.h
+
+1687118542 c:\users\lenovo\desktop\doxyy\helltaker_in_cpp\gameplay.h
+
+1687122333 source:c:\users\lenovo\desktop\doxyy\helltaker_in_cpp\readme.c
+
